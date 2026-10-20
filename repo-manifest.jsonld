@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/klen/muffin-jade/commit/3ddd6bf27fac03edc0bef3b0840bcd2e278babb3",
       "git:hexsha": "3ddd6bf27fac03edc0bef3b0840bcd2e278babb3",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.0.8"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.0.8",
+      "repolex:parsedAt": "2026-10-20T21:38:48.053851+00:00"
     },
     {
       "@id": "https://repolex.ai/r/klen/muffin-jade/commit/af8b812fc635a0adc2f0e0b02e281a011a6dcdaf",
