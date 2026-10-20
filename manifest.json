@@ -1,0 +1,39 @@
+{
+  "manifest_version": "1.0",
+  "org": "klen",
+  "repo": "muffin-jade",
+  "versions": [
+    {
+      "commit": "3ddd6bf27fac03edc0bef3b0840bcd2e278babb3",
+      "parsed_at": "2026-10-20T21:36:26.529984+00:00",
+      "tag": "0.0.8",
+      "filetree": "filetree/3ddd6bf27fac03edc0bef3b0840bcd2e278babb3.nq.gz",
+      "blobs": [
+        "blob/a3b5fc4ec6fb06670f0e626fc64f3ebcf3ec4d34.nq.gz",
+        "blob/0b2e907c89333ea1b1c45cf476f5afdd63c69c08.nq.gz",
+        "blob/86785a7ee375534ef6e7d2e938d89dc137b7ecaf.nq.gz",
+        "blob/5aae96c05508cd2a35f42796ae1ba37d3ea22e0b.nq.gz",
+        "blob/93b3bff2b78ac76a586ec2f94b4f792cb7cd4f5a.nq.gz",
+        "blob/ee1072d412e2d14e9f2b114c16111171b14462e4.nq.gz",
+        "blob/d844cc184ff61c05717c0636249878e411419acf.nq.gz",
+        "blob/7d08efd721e5e56a84b945cd6b2790c6f03c2fb4.nq.gz",
+        "blob/9b9b709de37672ffdbdb7b7573294afa3bca3160.nq.gz",
+        "blob/32e98313ac876fd826fb6d758fafd1e12251b117.nq.gz",
+        "blob/a8b2cab8622b598e6fb380e1fec17ec9408593e5.nq.gz",
+        "blob/7fc9cdf2c22d72df5cdd290f86f135ca7eb4c9dd.nq.gz",
+        "blob/9c69457bf1ff331090833d031badb7027d329363.nq.gz",
+        "blob/622d1b849a986d41a8c972a70e3d53a2ca9e5179.nq.gz",
+        "blob/1e32f2976210f83d472e6524322dc8a06a540fe7.nq.gz",
+        "blob/653627ed6e6933039b28b895aa9f4403382c6269.nq.gz",
+        "blob/5544235edebf7bf6c7a18ccdd5c721a6acbfff49.nq.gz",
+        "blob/4c825f396d4db90f442599e13a55c1a39bfca651.nq.gz",
+        "blob/5fd63afacfafb2e238d3293418636944ab64d2f1.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
